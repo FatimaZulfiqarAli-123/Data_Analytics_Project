@@ -101,14 +101,3 @@ Open `titanic_eda.ipynb` in VS Code or Jupyter
 * Data visualization
 * Statistical relationships
 * GitHub project management
-
----
-
-## 👤 Author
-
-Your Name
-GitHub: your-github-link
-
----
-
-⭐ This project is created for learning Data Science and EDA fundamentals.
