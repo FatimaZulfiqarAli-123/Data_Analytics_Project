@@ -31,6 +31,8 @@ The goal is to clean the data, handle missing values, analyze distributions, and
 
 ## 📂 Project Structure
 
+Project Structure
+
 Titanic-EDA/
 │
 ├── titanic.csv
